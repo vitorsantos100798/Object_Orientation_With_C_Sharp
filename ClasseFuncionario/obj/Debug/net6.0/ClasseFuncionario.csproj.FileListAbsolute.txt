@@ -1,0 +1,5 @@
+D:\Disciplinas\POO_manha\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_manha\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_manha\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_manha\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.AssemblyInfo.cs
+D:\Disciplinas\POO_manha\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.csproj.CoreCompileInputs.cache
