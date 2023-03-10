@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\ConstructorFuncionario.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\ConstructorFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\ConstructorFuncionario.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\ConstructorFuncionario.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\ConstructorFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\bin\Debug\net7.0\ConstructorFuncionario.exe
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\bin\Debug\net7.0\ConstructorFuncionario.deps.json
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\bin\Debug\net7.0\ConstructorFuncionario.runtimeconfig.json
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\bin\Debug\net7.0\ConstructorFuncionario.dll
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\bin\Debug\net7.0\ConstructorFuncionario.pdb
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\ConstructorFuncionario.dll
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\refint\ConstructorFuncionario.dll
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\ConstructorFuncionario.pdb
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\ConstructorFuncionario.genruntimeconfig.cache
+C:\Users\vitor\Desktop\Object_Orientation_With_C_Sharp\ConstructorFuncionario\obj\Debug\net7.0\ref\ConstructorFuncionario.dll
